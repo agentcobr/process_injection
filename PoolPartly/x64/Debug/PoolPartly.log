@@ -1,0 +1,15 @@
+﻿  main.cpp
+C:\Users\ymaxa\source\repos\PoolPartly\PoolPartly\process_scanner.h(109,26): warning C4101: ftKernelTotal: неиспользованная локальная переменная
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\ymaxa\source\repos\PoolPartly\PoolPartly\process_scanner.h(109,41): warning C4101: ftUserTotal: неиспользованная локальная переменная
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\ymaxa\source\repos\PoolPartly\PoolPartly\main.cpp(208,22): warning C4566: символ, представленный универсальным именем символа "\u2713", невозможно представить в текущей кодовой странице (1251)
+C:\Users\ymaxa\source\repos\PoolPartly\PoolPartly\main.cpp(211,22): warning C4566: символ, представленный универсальным именем символа "\u2717", невозможно представить в текущей кодовой странице (1251)
+C:\Users\ymaxa\source\repos\PoolPartly\PoolPartly\main.cpp(232,22): warning C4566: символ, представленный универсальным именем символа "\u2717", невозможно представить в текущей кодовой странице (1251)
+C:\Users\ymaxa\source\repos\PoolPartly\PoolPartly\main.cpp(239,22): warning C4566: символ, представленный универсальным именем символа "\u2713", невозможно представить в текущей кодовой странице (1251)
+C:\Users\ymaxa\source\repos\PoolPartly\PoolPartly\main.cpp(242,22): warning C4566: символ, представленный универсальным именем символа "\u2717", невозможно представить в текущей кодовой странице (1251)
+C:\Users\ymaxa\source\repos\PoolPartly\PoolPartly\main.cpp(259,22): warning C4566: символ, представленный универсальным именем символа "\u2713", невозможно представить в текущей кодовой странице (1251)
+C:\Users\ymaxa\source\repos\PoolPartly\PoolPartly\main.cpp(262,22): warning C4566: символ, представленный универсальным именем символа "\u2717", невозможно представить в текущей кодовой странице (1251)
+  PoolPartly.vcxproj -> C:\Users\ymaxa\source\repos\PoolPartly\x64\Debug\PoolPartly.exe
